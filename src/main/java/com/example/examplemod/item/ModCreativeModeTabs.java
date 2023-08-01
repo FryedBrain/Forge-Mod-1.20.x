@@ -1,6 +1,7 @@
 package com.example.examplemod.item;
 
 import com.example.examplemod.ExampleMod;
+import com.example.examplemod.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -19,6 +20,8 @@ public class ModCreativeModeTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.COKE.get());
                         pOutput.accept(ModItems.BAG_OF_SUGAR.get());
+
+                        pOutput.accept(ModBlocks.HAMGER_HELPER_BLOCK.get());
                     })
                     .build());
 

@@ -2,5 +2,7 @@
   "item.examplemod.coke": "Coke",
   "item.examplemod.bag_of_sugar": "Bag of Sugar",
 
+  "block.examplemod.hamger_helper_block": "Hamger Helper Block",
+
   "creativetab.tutorial_tab": "Random Perhaps Slightly Suspicious Items Tab"
 }
