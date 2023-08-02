@@ -42,6 +42,8 @@ public class ExampleMod {
 
     //test
 
+    //penis
+
     public ExampleMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
