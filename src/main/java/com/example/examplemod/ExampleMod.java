@@ -46,7 +46,7 @@ public class ExampleMod {
 
     public ExampleMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
-
+        //this could probably be changed to be a really big penis
         ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
