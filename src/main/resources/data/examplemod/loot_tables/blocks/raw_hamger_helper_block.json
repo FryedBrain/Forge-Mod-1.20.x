@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "examplemod:hamger_helper_block"
+          "name": "examplemod:raw_hamger_helper_block"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "examplemod:blocks/hamger_helper_block"
+  "random_sequence": "examplemod:blocks/raw_hamger_helper_block"
 }

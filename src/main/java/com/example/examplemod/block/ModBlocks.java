@@ -21,8 +21,8 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, ExampleMod.MOD_ID);
 
-    public static final RegistryObject<Block> HAMGER_HELPER_BLOCK = registerBlock("hamger_helper_block",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS).sound(SoundType.ROOTED_DIRT)));
+    public static final RegistryObject<Block> RAW_HAMGER_HELPER_BLOCK = registerBlock("raw_hamger_helper_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS).sound(SoundType.HONEY_BLOCK)));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
