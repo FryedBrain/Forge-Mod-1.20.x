@@ -22,6 +22,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.BAG_OF_SUGAR.get());
 
                         pOutput.accept(ModBlocks.RAW_HAMGER_HELPER_BLOCK.get());
+                        pOutput.accept(ModBlocks.COOKED_HAMGER_HELPER_BLOCK.get());
                     })
                     .build());
 

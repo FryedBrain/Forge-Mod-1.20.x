@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "cooked_hamger_helper_block",
+  "ingredient": {
+    "item": "examplemod:raw_hamger_helper_block"
+  },
+  "result": "examplemod:cooked_hamger_helper_block"
+}

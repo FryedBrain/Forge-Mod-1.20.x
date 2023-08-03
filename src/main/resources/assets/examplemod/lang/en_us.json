@@ -3,6 +3,7 @@
   "item.examplemod.bag_of_sugar": "Bag of Sugar",
 
   "block.examplemod.raw_hamger_helper_block": "Block of Raw Hamger Helper",
+  "block.examplemod.cooked_hamger_helper_block": "Block of Cooked Hamger Helper",
 
   "creativetab.tutorial_tab": "Random Perhaps Slightly Suspicious Items Tab"
 }

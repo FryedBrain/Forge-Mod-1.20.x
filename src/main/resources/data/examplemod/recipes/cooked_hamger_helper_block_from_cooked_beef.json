@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "result": {
+    "item": "examplemod:cooked_hamger_helper_block"
+  }
+}
